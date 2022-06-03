@@ -12,7 +12,7 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**.
+To view the live: **[click here](https://the-simplefolio.netlify.app/)**.
 
 ## Technologies used 🛠️
 
